@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a6a56b7.css",
-    "main.js": "/static/js/main.cffa1aa7.js",
-    "static/js/787.fbbaa35e.chunk.js": "/static/js/787.fbbaa35e.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.9b0beba632b017e31bdc.jpg",
-    "index.html": "/index.html",
-    "main.6a6a56b7.css.map": "/static/css/main.6a6a56b7.css.map",
-    "main.cffa1aa7.js.map": "/static/js/main.cffa1aa7.js.map",
-    "787.fbbaa35e.chunk.js.map": "/static/js/787.fbbaa35e.chunk.js.map"
+    "main.css": "/belajar-slicing/static/css/main.cedb9730.css",
+    "main.js": "/belajar-slicing/static/js/main.12eefc32.js",
+    "static/js/787.fbbaa35e.chunk.js": "/belajar-slicing/static/js/787.fbbaa35e.chunk.js",
+    "static/media/bg.jpg": "/belajar-slicing/static/media/bg.9b0beba632b017e31bdc.jpg",
+    "index.html": "/belajar-slicing/index.html",
+    "main.cedb9730.css.map": "/belajar-slicing/static/css/main.cedb9730.css.map",
+    "main.12eefc32.js.map": "/belajar-slicing/static/js/main.12eefc32.js.map",
+    "787.fbbaa35e.chunk.js.map": "/belajar-slicing/static/js/787.fbbaa35e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a6a56b7.css",
-    "static/js/main.cffa1aa7.js"
+    "static/css/main.cedb9730.css",
+    "static/js/main.12eefc32.js"
   ]
 }
