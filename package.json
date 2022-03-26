@@ -1,8 +1,8 @@
 {
-  "name": "belajar-slicing",
+  "name": "destin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rizsyad.github.io/belajar-slicing",
+  "homepage": "https://Rizsyad.github.io/destin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
