@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/belajar-slicing/static/css/main.cedb9730.css",
-    "main.js": "/belajar-slicing/static/js/main.12eefc32.js",
-    "static/js/787.fbbaa35e.chunk.js": "/belajar-slicing/static/js/787.fbbaa35e.chunk.js",
-    "static/media/bg.jpg": "/belajar-slicing/static/media/bg.9b0beba632b017e31bdc.jpg",
-    "index.html": "/belajar-slicing/index.html",
-    "main.cedb9730.css.map": "/belajar-slicing/static/css/main.cedb9730.css.map",
-    "main.12eefc32.js.map": "/belajar-slicing/static/js/main.12eefc32.js.map",
-    "787.fbbaa35e.chunk.js.map": "/belajar-slicing/static/js/787.fbbaa35e.chunk.js.map"
+    "main.css": "/destin/static/css/main.cedb9730.css",
+    "main.js": "/destin/static/js/main.3e7cb156.js",
+    "static/js/787.2b06cf2e.chunk.js": "/destin/static/js/787.2b06cf2e.chunk.js",
+    "static/media/bg.jpg": "/destin/static/media/bg.9b0beba632b017e31bdc.jpg",
+    "index.html": "/destin/index.html",
+    "main.cedb9730.css.map": "/destin/static/css/main.cedb9730.css.map",
+    "main.3e7cb156.js.map": "/destin/static/js/main.3e7cb156.js.map",
+    "787.2b06cf2e.chunk.js.map": "/destin/static/js/787.2b06cf2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cedb9730.css",
-    "static/js/main.12eefc32.js"
+    "static/js/main.3e7cb156.js"
   ]
 }
